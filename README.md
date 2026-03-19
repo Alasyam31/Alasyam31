@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated student of Artif
 
 ## 🎓 About Me
 
-- 📚 I'm currently pursuing a **Bachelor’s in Artificial Intelligence and Data Science** from **CMR Institute of Technology, Hyderabad**.  
-  📅 *Expected Graduation: May 2025*  
+- 📚 Graduated in Artificial Intelligence and Data Science** from **CMR Institute of Technology, Hyderabad**.  
+  📅 Graduation: *May 2025*  
   📊 *Current CGPA: 8.2/10*
 
-- 💻 I’m highly interested in fields like **machine learning**, **data science**, and **software development**.
+- 💻highly interested in fields like **machine learning**, **data science**, and **software development**.
 
 - 🌱 Constantly learning and working on projects to strengthen my skills and practical knowledge.
 
-- 🔍 Focused on writing **clean**, **efficient** code and exploring **intelligent solutions**.
+- 🔍 Focused on writing **Clean**, **Efficient** code and exploring **Intelligent Solutions**.
 
 ---
 
