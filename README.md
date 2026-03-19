@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated student of Artif
 
 ## 🎓 About Me
 
-- 📚 Graduated in Artificial Intelligence and Data Science** from **CMR Institute of Technology, Hyderabad**.  
+- 📚 Graduated in **Artificial Intelligence and Data Science** from **CMR Institute of Technology, Hyderabad**.  
   📅 Graduation: *May 2025*  
   📊 *Current CGPA: 8.2/10*
 
